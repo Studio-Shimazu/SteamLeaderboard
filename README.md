@@ -12,9 +12,10 @@
 # 参考
 ・[こちら](https://kan-kikuchi.hatenablog.com/entry/Steam_Ranking)を読んでランキングや実績の実装について理解していると楽
 
+
 # ランキングボードの手順
 ・[https://github.com/Studio-Shimazu/SteamLeaderboard/releases](https://github.com/Studio-Shimazu/SteamLeaderboard/releases)からパッケージを取得してインポート  
-・StudioShimazu>PrefabsのSteamLeaderboardPanelを表示したいシーンのCanvasの子にする  
+・StudioShimazu>PrefabsフォルダのSteamLeaderboardPanelを表示したいシーンのCanvasの子にする  
 ・以下のコードを表示したいところで実行すればOK  
 
 ```csharp
