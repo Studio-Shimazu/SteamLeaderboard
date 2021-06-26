@@ -22,3 +22,6 @@
 SteamLeaderboard.instance.ShowLeaderboards();
 ```
 
+## 問題があれば
+こちらで報告していただけると助かります。
+https://github.com/Studio-Shimazu/SteamLeaderboard/issues
